@@ -9,7 +9,7 @@ My journey as a coder started quite some time ago, and I've been diligently lear
 * 🌍  I'm based in Maharashtra, India
 * 🖥️  See my portfolio at [My Portfolio](http://prasen.co.in)
 * ✉️  You can contact me at [prasenjitpawar22@gmail.com](mailto:prasenjitpawar22@gmail.com)
-* 🚀  I'm currently working on [Schedulr](http://resume-builder-frontend-ten.vercel.app/)
+* 🚀  I'm currently working on [Schedulr](https://schedule-com.vercel.app)
 * 🧠  I'm learning Nextjs, .NET Core
 * 🤝  I'm open to collaboration 
 
