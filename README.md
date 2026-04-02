@@ -7,7 +7,7 @@ Software Engineer
 My journey as a coder started quite some time ago, and I've been diligently learning the ins and outs of the full stack. Recently, however, I find myself increasingly drawn to the frontend side of things, and have been exploring this area in more depth. Specifically, I'm honing my skills as a MERN developer, with a particular focus on frontend development.
 
 * 🌍  I'm based in Maharashtra, India
-* 🖥️  See my portfolio at [My Portfolio](https://www.prasen.co.in/)
+* 🖥️  See my portfolio at [My Portfolio](https://profile-web-xi.vercel.app/)
 * ✉️  You can contact me at [prasenjitpawar22@gmail.com](mailto:prasenjitpawar22@gmail.com)
 * 🧠  I'm learning Nextjs, .NET Core
 * 🤝  I'm open to collaboration 
